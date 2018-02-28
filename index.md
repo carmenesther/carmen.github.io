@@ -1,3 +1,7 @@
+## Información Personal
+
+Soy Carmen Esther, actual estudiante de Ingeniería Informática en la Universidad de Almería. Esta página va enfocada a la asignatura de herramientas y métodos de ingeniería del software.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/carmenesther/carmenesther.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
