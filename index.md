@@ -16,17 +16,17 @@ cfm465-hnms18-vm2
 
 ### DNS de la máquina
 
-[Mi máquina virtual](cfm465-hnms18-vm2.eastus.cloudapp.azure.com)
+[Mi máquina virtual](http://cfm465-hnms18-vm2.eastus.cloudapp.azure.com/)
 
 ## Sesión 03
 
 ### DNS de la máquina con GitLab
 
-[GitLab](jtv215-hms18-vm1.eastus.cloudapp.azure.com)
+[GitLab](http://jtv215-hms18-vm1.eastus.cloudapp.azure.com&)
 
 ### DNS de la máquina con Jenkins
 
-[Jenkins](cfm465-hnms18-vm2.eastus.cloudapp.azure.com)
+[Jenkins](http://cfm465-hnms18-vm2.eastus.cloudapp.azure.com/)
 
 ### Nombre del repositorio GitLab con ejercicios
 
@@ -36,7 +36,7 @@ proyectoInicio
 
 ### URL de la página de equipo
 
-[Nuestra página](jumanji-hmis18--vm3.eastus.cloudapp.azure.com)
+[Nuestra página](http://jumanji-hmis18--vm3.eastus.cloudapp.azure.com/)
 
 ### Repositorio GitHub de la página de equipo
 
