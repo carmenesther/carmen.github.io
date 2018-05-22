@@ -16,17 +16,17 @@ cfm465-hnms18-vm2
 
 ### DNS de la máquina
 
-[Mi máquina virtual](http://cfm465-hnms18-vm2.eastus.cloudapp.azure.com/)
+cfm465-hnms18-vm2.eastus.cloudapp.azure.com
 
 ## Sesión 03
 
 ### DNS de la máquina con GitLab
 
-[GitLab](http://jtv215-hms18-vm1.eastus.cloudapp.azure.com&)
+jtv215-hms18-vm1.eastus.cloudapp.azure.com
 
 ### DNS de la máquina con Jenkins
 
-[Jenkins](http://cfm465-hnms18-vm2.eastus.cloudapp.azure.com/)
+cfm465-hnms18-vm2.eastus.cloudapp.azure.com
 
 ### Nombre del repositorio GitLab con ejercicios
 
