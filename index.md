@@ -4,4 +4,4 @@ Soy Carmen Esther, actual estudiante 3º de Ingeniería Informática en la Unive
 
 ## Sesion 01
 
-Enlace de la página: [GitHub](https://carmenesther.github.io/)
+Enlace de la página: [Mi página personal](https://carmenesther.github.io/)
